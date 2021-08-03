@@ -1,2 +1,2 @@
 # slack-bot
-Slack bot made with python and flask
+*Created a slack bot with python, hosted a localhost server with ngrok and flask*
